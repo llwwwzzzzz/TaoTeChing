@@ -1,5 +1,7 @@
 # 「道德经」圣示
 
+The Divine Revelation of the Tao Te Ching
+
 作者：Liwei Zhang
 
 相关信息：
