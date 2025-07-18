@@ -4,7 +4,7 @@ The Divine Revelation of the Tao Te Ching
 
 作者：Liwei Zhang
 
-相关信息：
+## 相关信息：
 
 - [道的一种数学表示](https://www.academia.edu/129051902/%E9%81%93%E7%9A%84%E4%B8%80%E7%A7%8D%E6%95%B0%E5%AD%A6%E8%A1%A8%E7%A4%BA)
 
@@ -14,4 +14,9 @@ The Divine Revelation of the Tao Te Ching
 
 - [「道德经」研究系列音频](https://www.youtube.com/playlist?list=PLSx5Pa5-jPCGw-UeuxraPyF85wsvevmmu)
 
-名称来由
+## 名称中为何使用「圣」字？
+
+- 《道德经》的作者老子，以「知我者希 則我貴矣 是以聖人被褐而懷玉」含蓄又明确地告诉读者：老子是圣人。
+- 所谓「圣」，指向的是超越人类的存在。《道德经》的信息与此符合。
+- 功能上，作为《道德经》开始在人类世界流传2500多年后首次得以解码，即使在名称上，也需要与其他的误读、错读内容进行清晰的区分，以便读者搜索与辨认。
+
