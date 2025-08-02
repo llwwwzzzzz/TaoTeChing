@@ -1,4 +1,4 @@
-# 「道德经」圣示
+# 《道德经》圣示
 
 The Divine Revelation of the Tao Te Ching
 
