@@ -31,5 +31,19 @@ The Divine Revelation of the Tao Te Ching
 4. 在该文件夹内运行：
 
     ```
-    pandoc texts/道德经溯源本.md --metadata-file=epub-metadata.yaml -o 道德经溯源本.epub
+    pandoc texts/道德经溯源本.md --metadata-file=道德经溯源本-epub-metadata.yaml -o 道德经溯源本.epub
+    ```
+
+## 生成《道德经圣示溯源本》epub电子书的步骤
+
+1. 安装 [Pandoc](https://pandoc.org/installing.html)。
+
+2. 下载本repo。
+
+3. 使用命令行工具进入下载后本repo的“道德经溯源本”文件夹内。
+
+4. 在该文件夹内运行：
+
+    ```
+    pandoc texts/道德经圣示溯源本.md --metadata-file=道德经圣示溯源本-epub-metadata.yaml -o 道德经圣示溯源本.epub
     ```
