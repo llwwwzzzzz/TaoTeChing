@@ -20,7 +20,7 @@ The Divine Revelation of the Tao Te Ching
 - 所谓「圣」，指向的是超越人类的存在。《道德经》的信息与此符合。
 - 功能上，作为《道德经》开始在人类世界流传2500多年后首次得以解码，即使在名称上，也需要与其他的误读、错读内容进行清晰的区分，以便读者搜索与辨认。
 
-## 生成《道德经溯源版》epub电子书的步骤
+## 生成《道德经溯源本》epub电子书的步骤
 
 1. 安装 [Pandoc](https://pandoc.org/installing.html)。
 
