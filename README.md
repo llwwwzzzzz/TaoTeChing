@@ -11,10 +11,11 @@
 - 对照希伯来原文《圣经》旧约的中文版翻译工作已经启动。
 - 进度极其缓慢，不保证完成，不保证进度。
 
-## 中文翻译参考基础
+## 源数据
 
-- 希伯来文《圣经》旧约与英文对照版
-- Strong's Hebrew index
+- 希伯来文《圣经》旧约（Masoretic Text）
+- 《A Concise Hebrew and Aramaic Lexicon of the Old Testament》
+- 《Strong's Exhaustive Concordance of the Bible》
 
 ## 翻译策略变更
 
