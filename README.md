@@ -17,6 +17,10 @@
 - 《A Concise Hebrew and Aramaic Lexicon of the Old Testament》
 - 《Strong's Exhaustive Concordance of the Bible》
 
+## 生成数据工具及风险披露
+
+行间字词注释部分首先由AI工具自动生成。由于资源所限，未经全面、深入人工质检。欢迎提出纠错。
+
 ## 翻译策略变更
 
 在尝试添加直接对应Strong's Index的过程中，发现对应难以实现100%。这也为未来可能的自动化辅助翻译制造了麻烦。
